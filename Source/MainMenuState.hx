@@ -28,6 +28,7 @@ class MainMenuState extends FlxUIState
 
     override function create()
     {
+        // removed for security reasons
         // newgrounds = new NGio("","");
 
 

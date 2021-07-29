@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="food.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="apple0000" x="10" y="10" width="169" height="141"/>
+	<SubTexture name="cupcake0000" x="189" y="10" width="188" height="190"/>
+	<SubTexture name="melon0000" x="387" y="10" width="150" height="176"/>
+	<SubTexture name="orange0000" x="547" y="10" width="149" height="143"/>
+	<SubTexture name="roll0000" x="706" y="10" width="186" height="149"/>
+</TextureAtlas>

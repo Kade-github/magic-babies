@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="presstostart.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press_to_start0000" x="10" y="10" width="892" height="80" frameX="0" frameY="-1" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0001" x="10" y="10" width="892" height="80" frameX="0" frameY="-1" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0002" x="10" y="100" width="891" height="80" frameX="0" frameY="0" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0003" x="10" y="100" width="891" height="80" frameX="0" frameY="0" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0004" x="10" y="190" width="890" height="79" frameX="-1" frameY="-1" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0005" x="10" y="190" width="890" height="79" frameX="-1" frameY="-1" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0006" x="10" y="279" width="889" height="78" frameX="-2" frameY="-1" frameWidth="892" frameHeight="81"/>
+	<SubTexture name="press_to_start0007" x="10" y="279" width="889" height="78" frameX="-2" frameY="-1" frameWidth="892" frameHeight="81"/>
+</TextureAtlas>

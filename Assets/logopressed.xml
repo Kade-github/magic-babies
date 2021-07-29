@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logopressed.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logopressed0000" x="10" y="10" width="1101" height="651" frameX="-365" frameY="-194" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0001" x="1121" y="10" width="1163" height="774" frameX="-348" frameY="-104" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0002" x="2294" y="10" width="1288" height="806" frameX="-268" frameY="-104" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0003" x="3592" y="10" width="1414" height="841" frameX="-188" frameY="-105" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0004" x="5016" y="10" width="1539" height="917" frameX="-108" frameY="-71" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0005" x="10" y="937" width="1664" height="998" frameX="-28" frameY="-33" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0006" x="1684" y="937" width="1668" height="1000" frameX="-26" frameY="-32" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0007" x="3362" y="937" width="1670" height="1002" frameX="-25" frameY="-31" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0008" x="5042" y="937" width="1674" height="1004" frameX="-23" frameY="-30" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0009" x="10" y="1951" width="1677" height="1005" frameX="-22" frameY="-29" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0010" x="1697" y="1951" width="1680" height="1008" frameX="-20" frameY="-27" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0011" x="3387" y="1951" width="1683" height="1011" frameX="-19" frameY="-25" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0012" x="5080" y="1951" width="1687" height="1014" frameX="-17" frameY="-23" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0013" x="10" y="2975" width="1690" height="1017" frameX="-16" frameY="-21" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0014" x="1710" y="2975" width="1693" height="1020" frameX="-14" frameY="-19" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0015" x="3413" y="2975" width="1696" height="1022" frameX="-13" frameY="-17" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0016" x="5119" y="2975" width="1700" height="1025" frameX="-11" frameY="-15" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0017" x="10" y="4010" width="1702" height="1027" frameX="-10" frameY="-14" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0018" x="1722" y="4010" width="1706" height="1030" frameX="-8" frameY="-12" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0019" x="3438" y="4010" width="1709" height="1033" frameX="-7" frameY="-10" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0020" x="5157" y="4010" width="1711" height="1036" frameX="-6" frameY="-8" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0021" x="10" y="5056" width="1715" height="1038" frameX="-4" frameY="-6" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0022" x="1735" y="5056" width="1718" height="1041" frameX="-3" frameY="-4" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0023" x="3463" y="5056" width="1721" height="1044" frameX="-1" frameY="-2" frameWidth="1724" frameHeight="1047"/>
+	<SubTexture name="logopressed0024" x="5194" y="5056" width="1724" height="1047"/>
+</TextureAtlas>

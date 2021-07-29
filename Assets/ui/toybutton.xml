@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toybutton.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="toys0000" x="10" y="10" width="286" height="79"/>
+	<SubTexture name="toyspressed0000" x="306" y="10" width="289" height="197" frameX="0" frameY="-19" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0001" x="306" y="10" width="289" height="197" frameX="0" frameY="-19" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0002" x="605" y="10" width="289" height="216"/>
+	<SubTexture name="toyspressed0003" x="10" y="236" width="289" height="214" frameX="0" frameY="-2" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0004" x="10" y="236" width="289" height="214" frameX="0" frameY="-2" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0005" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0006" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0007" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0008" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0009" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0010" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0011" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0012" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0013" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0014" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0015" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0016" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0017" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0018" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0019" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+	<SubTexture name="toyspressed0020" x="309" y="236" width="289" height="211" frameX="0" frameY="-5" frameWidth="289" frameHeight="216"/>
+</TextureAtlas>

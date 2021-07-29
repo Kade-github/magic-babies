@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="foodbutton.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="food0000" x="10" y="10" width="286" height="79"/>
+	<SubTexture name="foodpressed0000" x="306" y="10" width="334" height="213" frameX="0" frameY="-26" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0001" x="306" y="10" width="334" height="213" frameX="0" frameY="-26" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0002" x="650" y="10" width="334" height="239"/>
+	<SubTexture name="foodpressed0003" x="10" y="259" width="334" height="237" frameX="0" frameY="-2" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0004" x="10" y="259" width="334" height="237" frameX="0" frameY="-2" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0005" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0006" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0007" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0008" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0009" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0010" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0011" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0012" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0013" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0014" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0015" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0016" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0017" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0018" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+	<SubTexture name="foodpressed0019" x="354" y="259" width="334" height="235" frameX="0" frameY="-4" frameWidth="334" frameHeight="239"/>
+</TextureAtlas>

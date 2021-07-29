@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toys.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ball0000" x="10" y="10" width="161" height="150"/>
+	<SubTexture name="game0000" x="181" y="10" width="122" height="155"/>
+	<SubTexture name="mouse0000" x="10" y="175" width="229" height="114"/>
+</TextureAtlas>

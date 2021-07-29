@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Magic Babies" package="newgrounds.gamejam.magicbabies" version="1.0.0" company="Newgrounders" />
+	<app main="Main" path="Export" file="HelloWorld" />
+	
+	<source path="Source" />
+	
+	<haxelib name="lime" />
+	
+	<assets path="Assets" rename="assets" />
+	
+	<haxelib name="flixel" />
+	<haxedev set='webgl' />
+	<haxelib name="flixel-addons" />
+	<haxelib name="flixel-ui" />
+	<haxelib name="newgrounds"/>
+	<haxelib name="faxe" if='switch'/>
+	<haxelib name="polymod"/>
+	<haxelib name="discord_rpc" if="windows"/>
+	<haxelib name="linc_luajit" if="windows"/>
+
+	<window width="1280" height="720" fps="120" background="#000000" hardware="true" vsync="false" />
+	<icon path="assets/iconOG.png" />
+
+	<!--HTML5-specific-->
+	<window if="html5" resizable="true" />
+
+	<set name="APP_ID" value="0x0100f6c013bbc022" />
+	<app preloader="flixel.system.FlxPreloader" />
+	<set name="SWF_VERSION" value="11.8" />
+
+	<assets path="assets/fonts" embed='true'/>
+
+	<haxelib name="newgrounds"/>
+
+	
+	<!--Disable the Flixel core focus lost screen-->
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+
+	<!--Disable the Flixel core debugger. Automatically gets set whenever you compile in release mode!-->
+	<haxedef name="FLX_NO_DEBUG" unless="debug" />
+
+	<haxedef name="HXCPP_GC_BIG_BLOCKS"/>
+</project>

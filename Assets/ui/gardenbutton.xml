@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gardenbutton.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garden0000" x="10" y="10" width="286" height="79"/>
+	<SubTexture name="gardenpressed0000" x="306" y="10" width="277" height="115" frameX="0" frameY="-42" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0001" x="306" y="10" width="277" height="115" frameX="0" frameY="-42" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0002" x="593" y="10" width="277" height="157"/>
+	<SubTexture name="gardenpressed0003" x="10" y="177" width="277" height="154" frameX="0" frameY="-3" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0004" x="10" y="177" width="277" height="154" frameX="0" frameY="-3" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0005" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0006" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0007" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0008" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0009" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0010" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0011" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+	<SubTexture name="gardenpressed0012" x="297" y="177" width="277" height="149" frameX="0" frameY="-8" frameWidth="277" frameHeight="157"/>
+</TextureAtlas>
